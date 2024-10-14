@@ -1,6 +1,6 @@
 # 《无障碍设计》
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>原书封面</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>原书封面</p></figcaption></figure>
 
 在微信阅读看完《信息无障碍》后，在学校图书馆尝试着搜相关书籍。没想到也是有几本，年份还不算久远。接下来这本是贾祝军的《无障碍设计》。
 

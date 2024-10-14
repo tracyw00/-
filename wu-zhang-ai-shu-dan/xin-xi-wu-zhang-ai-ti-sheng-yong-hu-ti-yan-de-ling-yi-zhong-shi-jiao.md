@@ -1,6 +1,6 @@
 # 《信息无障碍：提升用户体验的另一种视角》
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>原书封面</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>原书封面</p></figcaption></figure>
 
 寒假准备比赛的时候，我提了无障碍适老化，去年工信部逼国内互联网整改的方向Haier肯定也得听吧。后来想想，我好像从来没看过无障碍的书籍，就找到了旧合作方信息无障碍研究会的《信息无障碍》，国内第一本介绍信息无障碍的书。
 
