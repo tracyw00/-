@@ -4,7 +4,7 @@
 
 我做台湾设计展的性格测试做到是光系，就很enfj、阳光小狗的刻板印象。我想要不存个档吧，让过去的自己把日渐阴暗的自己照醒吧。这个系列的名字嘛，就用光系好啦，【光系小邮箱】，也能复用【追光探店】的底封，不用再p一个了（偷懒）。
 
-<figure><img src="../.gitbook/assets/640.webp" alt="" width="375"><figcaption><p>测试结果，真的很光明……</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/640 (2).webp" alt="" width="375"><figcaption><p>测试结果，真的很光明……</p></figcaption></figure>
 
 ## 三代目录取通知书
 

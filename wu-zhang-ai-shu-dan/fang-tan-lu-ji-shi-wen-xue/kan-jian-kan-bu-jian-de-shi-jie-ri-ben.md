@@ -1,6 +1,6 @@
 # 《看见看不见的世界》：日本
 
-<figure><img src="../../.gitbook/assets/641.jpg" alt=""><figcaption><p>《看见看不见的世界》书本特写</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/641.jpg" alt=""><figcaption><p>《看见看不见的世界》书本特写，图源新经典</p></figcaption></figure>
 
 国际盲人节那天，新经典是我豆瓣列表里唯一一个发盲人节内容的出版官号，推了它家的新书《看见看不见的世界》。虽然有打广告的嫌疑，当它有心啦，也让我知道原来日本也有普及视障的书籍。
 
