@@ -1,6 +1,6 @@
-# 《无障碍设计》
+# 建筑工程：《无障碍设计》
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>原书封面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>原书封面</p></figcaption></figure>
 
 在微信阅读看完《信息无障碍》后，在学校图书馆尝试着搜相关书籍。没想到也是有几本，年份还不算久远。接下来这本是贾祝军的《无障碍设计》。
 
@@ -26,7 +26,7 @@
 
 说到无障碍课程，我三月无意加到工信部负责无障碍推进的一位大佬。在战战兢兢跟他“保持联络”的时候（我也不敢想我接触到工信部欸！），他跟我提到了信息无障碍的研究方向，不过就业不太好。“厦门大学新闻传播学院有博士生，还有重庆大学的博士生，研究信息无障碍，到后面毕业的时候还是挺难的。”
 
-<figure><img src="../.gitbook/assets/640 (5).jpg" alt=""><figcaption><p>上图是国际无障碍服务对象的三次重要演变，来源信息无障碍研究会</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (5).jpg" alt=""><figcaption><p>上图是国际无障碍服务对象的三次重要演变，来源信息无障碍研究会</p></figcaption></figure>
 
 #### &#x20;<a href="#s7u2m" id="s7u2m"></a>
 
@@ -44,17 +44,17 @@
 
 肢体残障指人的四肢残缺或四肢、躯干麻痹、畸形，导致人体运动系统不同程度的功能丧失或功能障碍。通常用ADL（activities of daily living,日常生活活动）来评定生活能力。生理特性分为下肢残障独立乘坐轮椅、下肢残障拄杖、上肢残障、脊柱损伤。在设计建筑时，需要考虑到他们的高度和使用的器具（如轮椅、拐杖、盲杖）的宽度范围：
 
-<figure><img src="../.gitbook/assets/640 (6).jpg" alt=""><figcaption><p>上图是各类人群的人体尺寸差别对比。有平均身高的男性、平均身高的女性、矮个的老年妇女、坐轮椅者</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (6).jpg" alt=""><figcaption><p>上图是各类人群的人体尺寸差别对比。有平均身高的男性、平均身高的女性、矮个的老年妇女、坐轮椅者</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/640 (7).jpg" alt=""><figcaption><p>上图是坐轮椅者的人体尺度及活动范围。有正视、侧视、俯视</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (7).jpg" alt=""><figcaption><p>上图是坐轮椅者的人体尺度及活动范围。有正视、侧视、俯视</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/640 (8).jpg" alt=""><figcaption><p>上图是各种拄杖者的人体尺寸</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (8).jpg" alt=""><figcaption><p>上图是各种拄杖者的人体尺寸</p></figcaption></figure>
 
 这一部分我看得很揪心。我这几年接触的视障者，他们丧失或者部分丧失了视觉，但他们躯体是完整的，生活能自理，方向感强的全盲甚至能带视障去玩。但肢体残障是缺少了肢体的一部分，日常可能也需要人照顾。配图的简笔画看着就很辛苦啊。
 
-<figure><img src="../.gitbook/assets/640 (9).jpg" alt=""><figcaption><p>上图是双上肢障碍者洗澡的行为特性</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (9).jpg" alt=""><figcaption><p>上图是双上肢障碍者洗澡的行为特性</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/640 (10).jpg" alt=""><figcaption><p>上图是双上肢障碍者吃饭的行为特性，背后的如何自行穿衣也被映出来了</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (10).jpg" alt=""><figcaption><p>上图是双上肢障碍者吃饭的行为特性，背后的如何自行穿衣也被映出来了</p></figcaption></figure>
 
 因为肢体障碍的残疾部位不太一样，设计细节得分别考虑。尽量保证安全、消除高度差、设计更简单的操作。\
 
@@ -67,11 +67,11 @@
 
 盲道其实随处可见，道路上凸起来的一行砖块就是。盲道一般用亮黄色，因为一旦盲道用地面材料与地面的亮度比大于2.5倍，视觉障碍者就容易辨别。不过盲道的铺设和维护不尽人意，共享单车占用、砖块损坏、颜色不明显……寒假才吐槽着老家的盲道。
 
-<figure><img src="../.gitbook/assets/640 (11).jpg" alt=""><figcaption><p>上图是我和朋友的聊天记录，在吐槽盲道的长条乱铺设，还不通到隔壁的斑马线</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (11).jpg" alt=""><figcaption><p>上图是我和朋友的聊天记录，在吐槽盲道的长条乱铺设，还不通到隔壁的斑马线</p></figcaption></figure>
 
 在杭州，盲文在公共设施的使用还挺多。盲文地图、配置盲文的电梯和地铁扶手、导航机器。花港观鱼的盲人地图我在带朋友观光的时候经过一次，后来障行办活动了又带视障朋友来体验。晓华说，中间的盲文是数字，跟地图左边的注释对应。
 
-<figure><img src="../.gitbook/assets/640 (14).jpg" alt=""><figcaption><p>上图是花港观鱼的盲人地图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (14).jpg" alt=""><figcaption><p>上图是花港观鱼的盲人地图</p></figcaption></figure>
 
 
 

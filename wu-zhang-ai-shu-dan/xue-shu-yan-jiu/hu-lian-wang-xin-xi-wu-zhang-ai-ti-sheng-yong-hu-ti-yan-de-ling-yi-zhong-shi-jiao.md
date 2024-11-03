@@ -1,6 +1,6 @@
-# 《信息无障碍：提升用户体验的另一种视角》
+# 互联网：《信息无障碍：提升用户体验的另一种视角》
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>原书封面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>原书封面</p></figcaption></figure>
 
 寒假准备比赛的时候，我提了无障碍适老化，去年工信部逼国内互联网整改的方向Haier肯定也得听吧。后来想想，我好像从来没看过无障碍的书籍，就找到了旧合作方信息无障碍研究会的《信息无障碍》，国内第一本介绍信息无障碍的书。
 
@@ -12,7 +12,7 @@
 
 书分成了八章，介绍了信息无障碍的概念、法律规范、原理、产品实践等内容。学到的无障碍知识很多，做成的思维导图很大一幅。也佩服发达国家的前沿性，人家订的法规比我们早了四十多年；香港也比大陆早了九年。种树第二个最好的时机是现在，希望这两年工信部的勒令整改能交一张漂亮的单子。
 
-<figure><img src="../.gitbook/assets/640 (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/640 (21).png" alt=""><figcaption></figcaption></figure>
 
 上图是我做的读书笔记导图，放在文章被压缩得看不清字，高清版在公众号聊天框输入“信息无障碍”领取吧。我摘取一些有意思的放到文中：
 
