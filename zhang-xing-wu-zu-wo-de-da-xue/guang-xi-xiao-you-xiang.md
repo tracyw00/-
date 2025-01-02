@@ -28,13 +28,13 @@ Subject:  【杭电创益行动15th-障行无阻3rd成员录取通知书】
 &#x20;   障行无阻是好玩的，能接触一个不一样的世界、结识很多善良又有趣的视障者长辈/朋友；障行无阻也是当前涉及服务业最多的项目组，你刚开始可能会吃不消。要记得我会与你抱拥，雨再降也当吹吹风。
 
 _<mark style="background-color:orange;">孤单的世界</mark>_\
-_<mark style="background-color:orange;">承受贯彻理想那彷徨</mark>_\
-_<mark style="background-color:orange;">坚信着无论有苦痛</mark>_\
-_<mark style="background-color:orange;">仍要一心努力着去闯</mark>_\
-_<mark style="background-color:orange;">漆黑的世界</mark>_\
-_<mark style="background-color:orange;">无尽探索美景的长廊</mark>_\
-_<mark style="background-color:orange;">原来这大片地图上</mark>_\
-_<mark style="background-color:orange;">存在过耀眼阳光</mark>_
+&#xNAN;_<mark style="background-color:orange;">承受贯彻理想那彷徨</mark>_\
+&#xNAN;_<mark style="background-color:orange;">坚信着无论有苦痛</mark>_\
+&#xNAN;_<mark style="background-color:orange;">仍要一心努力着去闯</mark>_\
+&#xNAN;_<mark style="background-color:orange;">漆黑的世界</mark>_\
+&#xNAN;_<mark style="background-color:orange;">无尽探索美景的长廊</mark>_\
+&#xNAN;_<mark style="background-color:orange;">原来这大片地图上</mark>_\
+&#xNAN;_<mark style="background-color:orange;">存在过耀眼阳光</mark>_
 
 
 
@@ -104,7 +104,7 @@ Add.:浙江省杭州市下沙高教园区2号大街1158号\
 
 
 
-### **01 婷姐特供生日歌**
+### **婷姐特供生日歌**
 
 **【障行人内部福利】**\
 **之婷姐特供粤语生日歌《祝寿曲》**
@@ -142,7 +142,7 @@ Add.:浙江省杭州市下沙高教园区2号大街1158号\
 花鞋花袜花腰带\
 珍珠蝴蝶两边排\
 係呢度祝菲菲公主生日快乐，喺新嘅一年平安喜乐，青春靓丽\
-_（菲菲是广东人，虽然他不会说粤语，默认他看得懂了（用“他”是因为菲菲真是个男的））_
+&#xNAN;_（菲菲是广东人，虽然他不会说粤语，默认他看得懂了（用“他”是因为菲菲真是个男的））_
 
 
 
@@ -153,9 +153,9 @@ _（菲菲是广东人，虽然他不会说粤语，默认他看得懂了（用�
 粤：不知不觉做咗一年，收山之作肯定要搞大滴嗝啦～系呢度就祝我哋嘅冬冬生日快乐，系新嘅一年平安喜乐，落力滴醒目滴\
 （不知不觉这做了一年了，收山之作肯定要做个大的վ'ᴗ' ի在这里祝我们的冬冬生日快乐，系新嘅一年平安喜乐，努力又聪慧）
 
-\
-\
-**02 本应是最后一个的**
+
+
+### **本应是最后一个的**
 
 From:  #########\
 Date:  Tue, Nov 16, 2021 08:00 PM\
@@ -175,11 +175,14 @@ Attachment:  这是个压缩包.zip
 
 
 
-**04 生日祝福终结篇**\
+### **生日祝福终结篇**
+
 From:  #########\
 Date:  Sun, Nov 21, 2021 07:00 AM\
 To:  冬冬\
 Subject:  冬冬生日快乐【婷姐生日祝福终结篇】
+
+
 
 这来源于一个尽职而又悲伤的故事，前几天思颖生日的时候才说着🚬既然两个挺靠近，那就四舍五入都弄吧
 
@@ -187,8 +190,8 @@ Subject:  冬冬生日快乐【婷姐生日祝福终结篇】
 
 招新完毕，四代目来了，不知道你们交接如何（冬冬的排版给我支楞起来\~\_\~）虽然我现在不在，但总是退休退了个寂寞，很多事我也知道，仿佛一个隐藏款(′д｀σ)σ
 
-权且上帝视角一回吧，god bless you 福寿与天齐，平安喜乐，新嗝一年做个醒目仔🎂🎉🍺老环节要的扣666，听腻了粤语想换个语种的扣678\
-\
+权且上帝视角一回吧，god bless you 福寿与天齐，平安喜乐，新嗝一年做个醒目仔🎂🎉🍺老环节要的扣666，听腻了粤语想换个语种的扣678
+
 
 
 ## **掌门诀别书**
@@ -229,7 +232,7 @@ To 障行十兄弟：
 \
 这里是障行无阻，请多多关照，over.\
 \
-_<mark style="background-color:blue;">我所经历过</mark>_\
+&#xNAN;_<mark style="background-color:blue;">我所经历过</mark>_\
 _<mark style="background-color:blue;">嘅事瞬间好似录像机在播放</mark>_\
 _<mark style="background-color:blue;">欢笑嘅过往</mark>_\
 _<mark style="background-color:blue;">失落编织网</mark>_\
