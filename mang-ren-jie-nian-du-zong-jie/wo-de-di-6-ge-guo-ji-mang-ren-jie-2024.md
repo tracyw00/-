@@ -41,3 +41,7 @@
 只不过我也知道，<mark style="color:blue;">**无障碍产品经理我一直听说有，但我从来没遇上。**</mark>
 
 我休养到9月再开始找工作，似乎又回到了两年前，结束西门子实习投入秋招。和那时一样，看岗位、看书、一焦虑就买衣服，还有一无所获。现在我还相信努力有用吗？相信，但我已经无法再高估它了。
+
+
+
+<figure><img src="../.gitbook/assets/思考士多gzh-障行.png" alt=""><figcaption></figcaption></figure>

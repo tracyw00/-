@@ -29,7 +29,7 @@
 
 
 
-[**她为消失的8500万人做测评！**](https://mp.weixin.qq.com/s/aZl\_b-6o4tk8NHy9IIJNig)**-新读写 211225**
+[**她为消失的8500万人做测评！**](https://mp.weixin.qq.com/s/aZl_b-6o4tk8NHy9IIJNig)**-新读写 211225**
 
 B站的**大程子好妹妹**是一位**无障碍测评区UP主。** 因为儿时得了脊髓灰质炎，程子的双腿无法自如行动，日常要依靠轮椅生活。
 
@@ -47,11 +47,11 @@ B站的**大程子好妹妹**是一位**无障碍测评区UP主。** 因为儿�
 
 [**每年104部无障碍电影是怎样炼成的？**](https://mp.weixin.qq.com/s/mCONV8dKzsC6XGuBMbmCdQ)**-中国传媒大学 211205**
 
-中国传媒大学**“光明影院”无障碍电影公益项目团队**，每年制作104部无障碍电影，助力无障碍信息传播，构筑通往心灵的“文化盲道”，为视障朋友们作出力所能及的贡献。
+中国传媒大&#x5B66;**“光明影院”无障碍电影公益项目团队**，每年制作104部无障碍电影，助力无障碍信息传播，构筑通往心灵的“文化盲道”，为视障朋友们作出力所能及的贡献。
 
 
 
-[**中国美术学院×阿里云 DI PROJECT**](https://i.eqxiu.com/s/80lxfETK?eqrcode=1\&share\_level=7\&from\_user=219451fc-dcac-429d-85b7-4f41bdc041cc\&from\_id=7ec2283a-e\&share\_time=1633257409835)**-中国美术学院 2105**
+[**中国美术学院×阿里云 DI PROJECT**](https://i.eqxiu.com/s/80lxfETK?eqrcode=1\&share_level=7\&from_user=219451fc-dcac-429d-85b7-4f41bdc041cc\&from_id=7ec2283a-e\&share_time=1633257409835)**-中国美术学院 2105**
 
 DI Project（Design Intelligence Project）是由阿里云设计中心与中国美术学院文创中心联合发起的合作项目,通过高校与企业间的创新协作共同探索艺术+科技的未来生活解决方案。
 
