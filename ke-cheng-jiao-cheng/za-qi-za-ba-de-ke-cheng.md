@@ -1,6 +1,18 @@
 # 杂七杂八的课程
 
-[**【联合转发】《李学会-残障社会服务与量表使用》网课视频简介**](http://mp.weixin.qq.com/s?\_\_biz=Mzg2NDUyMzEwMw==\&mid=2247521864\&idx=2\&sn=4b96c3bbb11f8d2bdba1145366e249ba\&chksm=ce6ad078f91d596e2cff5d02c749806247481c4926c6448466da116d2ee95f26f32707f9a31f#rd)**-少数派说 220714**
+[<mark style="color:blue;">**Android无障碍功能帮助**</mark>](https://support.google.com/accessibility/android?sjid=16958227160518826411-AP#topic=6007234) **-安卓无障碍功能使用指南**
+
+谷歌官方指南，网页进去是个搜索界面，下方展示文件导航，包括功能概览、使用屏幕阅读器、更改显示设置、互动控件、音频和字幕等。
+
+
+
+[**打造无障碍应用 | App quality | AndroidDevelopers**](https://developer.android.com/guide/topics/ui/accessibility?hl=zh-cn)**- 安卓无障碍开发指南**
+
+谷歌官方指南，构建和测试应用的无障碍功能。有些教程做成了新手指南的样式，一步步教学，还有答题拿徽章环节。
+
+
+
+[**【联合转发】《李学会-残障社会服务与量表使用》网课视频简介**](http://mp.weixin.qq.com/s?__biz=Mzg2NDUyMzEwMw==\&mid=2247521864\&idx=2\&sn=4b96c3bbb11f8d2bdba1145366e249ba\&chksm=ce6ad078f91d596e2cff5d02c749806247481c4926c6448466da116d2ee95f26f32707f9a31f#rd)**-少数派说 220714**
 
 社会组织在专业（残障）社会服务中为什么要使用量表？社会组织应该如何使用量表？主讲人李学会认为，量表是根据测量的目的而编制的一组测验项目（或者是任务或问题）。使用量表这类科学工具可以帮助社会组织在社会服务过程中实现专业的要求。
 
